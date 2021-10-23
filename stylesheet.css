@@ -49,6 +49,8 @@ z-index:-1;top:0;width:100%;left:0;right:0;bottom:30%;box-shadow:inset 0 -40px 6
     height: 50px;
     vertical-align: bottom;
     font-family: 'Henny Penny', cursive;
+    font: bold;
+    font-size: xx-large;
   }
 
 .card {
